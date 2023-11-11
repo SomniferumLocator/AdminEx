@@ -36,10 +36,6 @@ Getting started is easy! Just follow these simple steps:
 
 ## ⚙️ Installation
 
-Install [Your Tool Name] with a breeze:
+Install AdminEX Easily:
 
-```bash
-# Example installation command
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
-dotnet build
+Instructions are in the appropative telegram channel or discord server.
