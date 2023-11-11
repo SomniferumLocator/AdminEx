@@ -18,7 +18,7 @@ Welcome to AdminEX, a powerful and user-friendly tool designed to simplify findi
 - **Feature 6:** 🔥 Cheap
 
 ## 💳 Pricing
-![image](https://github.com/SomniferumLocator/AdminEx/assets/150518723/c835d19d-cc98-42f7-a458-1b16d6442a58)
+![image](https://github.com/SomniferumLocator/AdminEx/assets/150518723/921413b7-c755-4329-9d00-b65c484b0464)
 
 Choose a plan that fits your needs:
 
