@@ -31,8 +31,8 @@ Choose a plan that fits your needs:
 Getting started is easy! Just follow these simple steps:
 
 1. Join Discord Server https://discord.gg/edZ8SBjd OR Join https://t.me/somniferumlite
-2. Step 2...
-3. ...
+2. Pay in Bitcoin, Ethereum OR Ripple
+3. Message @RC_C0X on Telegram OR open a ticket in the discord server.
 
 ## ⚙️ Installation
 
